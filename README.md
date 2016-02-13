@@ -1,9 +1,10 @@
-# Basic Project
+# TestNG Project
 
- Basic Java Maven Project Structure
+ TestNG Project 
 
  * QA
  * Java
  * Maven
+ * TestNG
 
  [Anna Antonyan](http://sqasolution.com)
